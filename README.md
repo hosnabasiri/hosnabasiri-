@@ -1,5 +1,7 @@
 # Hi, I'm Hosna 👋
 
+## 👉 [Click here to view my research project](https://github.com/hosnabasiri/scRNAseq-cross-disorder-neuronal-integration)
+
 I'm a computational biology MSc graduate based in Milan, working at the intersection of single-cell transcriptomics, neurogenomics, and integrative data analysis.
 
 During my bachelor's, I made a point of going to as many symposiums and talks as I could — trying to figure out where I actually wanted to be. I explored cognitive neuroscience, microglial biology, addiction research. None of it quite clicked, not because the science wasn't fascinating, but because I kept coming back to the same question: how do we get from a cell to a disease, and from understanding that, to actually doing something about it?
