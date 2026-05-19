@@ -1,6 +1,6 @@
 # Hi, I'm Hosna 👋
 
-## 👉 [Click here to view my research project](https://github.com/hosnabasiri/scRNAseq-cross-disorder-neuronal-integration)
+
 
 I'm a computational biology MSc graduate based in Milan, working at the intersection of single-cell transcriptomics, neurogenomics, and integrative data analysis.
 
@@ -10,6 +10,7 @@ What drew me to single-cell transcriptomics was the realization that the cell is
 
 I also know this kind of science isn't done alone. The questions I care about sit at the intersection of biology, computation, and medicine — and that's exactly the kind of collaborative, cross-disciplinary environment I want to work in.
 
+## 👉 [Click here to view my research project](https://github.com/hosnabasiri/scRNAseq-cross-disorder-neuronal-integration)
 ---
 
 ## 🧠 Research Interests
