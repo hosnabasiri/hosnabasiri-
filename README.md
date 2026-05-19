@@ -8,7 +8,7 @@ During my bachelor's, I made a point of going to as many symposiums and talks as
 
 What drew me to single-cell transcriptomics was the realization that the cell is where that gap starts to close. If you can define what a neuron truly is, its identity, its state, how it changes in disease, you start to see where things go wrong, and potentially where they could be fixed. I'm particularly interested in neurodevelopmental and neurodegenerative conditions, and in the long-term possibility of cell-based therapeutic approaches grounded in a precise understanding of neuronal identity.
 
-I also know this kind of science isn't done alone. The questions I care about sit at the intersection of biology, computation, and medicine — and that's exactly the kind of collaborative, cross-disciplinary environment I want to work in.
+I also know this kind of science isn't done alone. The questions I care about sit at the intersection of biology, computation, and medicine, and that's exactly the kind of collaborative, cross-disciplinary environment I want to work in.
 
 ## 👉 [Click here to view my research project](https://github.com/hosnabasiri/scRNAseq-cross-disorder-neuronal-integration)
 ---
